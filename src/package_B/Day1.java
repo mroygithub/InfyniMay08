@@ -25,6 +25,7 @@ public class Day1 {
 
         System.out.println("The School Address is ===>"+objMay10.schoolAddress);
         objMay10.rateOfBankInterest();
+        System.out.println(obj.AStringTypeProgram());
 
     }
 
